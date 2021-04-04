@@ -1,2 +1,2 @@
-# Edgeware-Electron
+# EdgewareHub
  
